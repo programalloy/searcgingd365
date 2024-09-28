@@ -32,9 +32,9 @@ Provided by Rustici Software - www.scorm.com.
 	</metadata>
 	<organizations default="B0">
 		<organization identifier="B0" adlseq:objectivesGlobalToSystem="false">
-			<title>Searching in D365 V1.0 - InteractiveSim</title>
+			<title>Searching in D365 V2.0 - InteractiveSim</title>
 			<item identifier="i1" identifierref="r1" isvisible="true">
-				<title>Epilogue Author Searching in D365 V1.0 - InteractiveSim</title>
+				<title>Epilogue Author Searching in D365 V2.0 - InteractiveSim</title>
 			</item>
 		</organization>
 	</organizations>
